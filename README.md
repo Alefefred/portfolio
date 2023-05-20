@@ -14,8 +14,8 @@
 
 ## Feito por:
 
-### Joana Santos
+### Álefe Fred
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/alefe-fred/
 
 ```
