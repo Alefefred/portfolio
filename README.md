@@ -1,10 +1,8 @@
-# portfolio
-Projeto realizado com base nas aulas da Alura para aprender e exercitar o HTML e CSS com responsividade.
 ```
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/Alefefred/portfolio/assets/98221006/fda77482-e8c0-4b4a-a0dd-8a468fb8fa35)
 
 ## Ferramentas utilizadas:
 
